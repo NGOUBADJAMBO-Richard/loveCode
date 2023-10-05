@@ -1,47 +1,49 @@
-
 /**
  * We're almost done.
  */
 
  pre:hover{
-   box-shadow: 0px 0px 40px 5px rgba(255,255,255,0.4);
- }
+  box-shadow: 0px 0px 40px 5px rgba(255,255,255,0.4);
+}
 
- #skip-animation, #pause-resume {
-   display: none;
- }
-
-/**
- * I hope you enjoyed this.
- *
- * Thanks to Jake Albaugh, who was the first (that I know of) to do
- * a page like this. Some of the autotyping and syntax highlighting
- * code is based off his work.
- *
- * See more of Jake's work at http://codepen.io/jakealbaugh/
- */
-
-/**
- * By the way, you can edit this box. Try adding new CSS!
- *
- * For example,
- *
- * The property 'text-shadow' takes the parameters:
- * 'x', 'y', 'blur', 'color'.
- *
- * So if I wanted to mirror the values,
- * I could place a shadow 15px under it,
- * with a little blur for effect:
- */
-
-.value {
-  text-shadow: 0px 15px 1px white;
+#skip-animation, #pause-resume {
+  display: none;
 }
 
 /**
- * Try it out! There's lots you can do.
- * Try playing with text sizes, shadows, animations, or just
- * break the page. I won't hold it against you.
- */
+* I hope you enjoyed this, my love Racha.
+*
+* Thanks to Jake Albaugh, who was the first (that I know of) to do
+* a page like this. Some of the autotyping and syntax highlighting
+* code is based off his work. But my inspiration, my muse, is you, Racha.
+*
+
+*/
+
+/**
+* By the way, you can edit this box. Try adding new CSS!
+*
+* For example,
+*
+* The property 'text-shadow' takes the parameters:
+* 'x', 'y', 'blur', 'color'.
+*
+* So if I wanted to mirror the values,
+* I could place a shadow 15px under it,
+* with a little blur for effect:
+*/
+
+.value {
+ text-shadow: 0px 15px 1px white;
+}
+
+/**
+* Try it out, Racha! There's lots you can do.
+* Try playing with text sizes, shadows, animations, or just
+* break the page. I won't hold it against you.
 
 
+
+// Racha, your presence in my life is like a beautiful shadow, adding depth and warmth to everything around me.
+// Just like this text-shadow effect, you make my world brighter and more vibrant. Je t'aime plus que tout.
+*/

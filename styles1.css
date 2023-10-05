@@ -1,9 +1,8 @@
-
 /**
  * That markdown on the left doesn't look great. Let's render it.
  */
 
-#work-text.flipped {
+ #work-text.flipped {
   -webkit-transform: rotateX(0deg) rotateY(190deg) rotateZ(180deg);
 }
 
@@ -25,3 +24,6 @@
  * Okay here we go!
  *
  */
+/* Racha, mon amour, you inspire me in every line of code, even in the comments. 
+ Your love fuels my creativity and passion for coding. Je t'aime plus que tout.
+*/

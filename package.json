@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "webpack",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider &&  webpack serve --open",
+    "build": "SET NODE_OPTIONS=--openssl-legacy-provider &&  webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve --open",
     "watch": "webpack --progress --watch"
