@@ -2,18 +2,19 @@
  * We're almost done.
  */
 
- pre:hover{
-  box-shadow: 0px 0px 40px 5px rgba(255,255,255,0.4);
+pre:hover {
+  box-shadow: 0px 0px 40px 5px rgba(255, 255, 255, 0.4);
 }
 
-#skip-animation, #pause-resume {
+#skip-animation,
+#pause-resume {
   display: none;
 }
 
 /**
-* I hope you enjoyed this, my love Racha.
+* I hope you enjoyed this, my Jehovah Jireh.
 *
-* Thanks to Jake Albaugh, who was the first (that I know of) to do
+* Thanks to Yassine Elmouss, who was the first (that I know of) to do
 * a page like this. Some of the autotyping and syntax highlighting
 * code is based off his work. But my inspiration, my muse, is you, Racha.
 *
@@ -34,16 +35,16 @@
 */
 
 .value {
- text-shadow: 0px 15px 1px white;
+  text-shadow: 0px 15px 1px white;
 }
 
 /**
-* Try it out, Racha! There's lots you can do.
+* Try it out ! There's lots you can do.
 * Try playing with text sizes, shadows, animations, or just
 * break the page. I won't hold it against you.
 
 
 
-// Racha, your presence in my life is like a beautiful shadow, adding depth and warmth to everything around me.
+// Father God, your presence in my life is like a beautiful shadow, adding depth and warmth to everything around me.
 // Just like this text-shadow effect, you make my world brighter and more vibrant. Je t'aime plus que tout.
 */

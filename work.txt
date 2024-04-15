@@ -1,7 +1,6 @@
-yelmouss.com
+MGN.com
 =========
 
-Yassine ELMOUSS
-Co-Founder, yelmouss dev
-Full-Stack / NodeJS / DevOps
+Richard NGOUBADJAMBO
+Full-Stack / React Js / JavaScript
 
